@@ -1,5 +1,7 @@
 👋 Hi, there, I’m @clipbsw
 
+clipbsw 的意思是：常伟佳的百事屋
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
